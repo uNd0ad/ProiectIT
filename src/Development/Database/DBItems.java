@@ -1,6 +1,6 @@
-package Functionalitate.Development.Database;
+package Development.Database;
 
-import Functionalitate.Interface.itemList;
+import Interface.itemList;
 
 import java.util.ArrayList;
 

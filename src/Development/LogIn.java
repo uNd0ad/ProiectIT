@@ -1,4 +1,4 @@
-package Functionalitate.Development;
+package Development;
 
 public class LogIn extends Commands {
     private int countKey = 0;

@@ -1,10 +1,10 @@
-package Functionalitate.Module;
+package Module;
 
-import Functionalitate.Development.Commands;
-import Functionalitate.Development.Database.DBAccounts;
-import Functionalitate.Development.Database.DBItems;
-import Functionalitate.Development.LogIn;
-import Functionalitate.Development.SignIn;
+import Development.Commands;
+import Development.Database.DBAccounts;
+import Development.Database.DBItems;
+import Development.LogIn;
+import Development.SignIn;
 
 import java.util.Scanner;
 

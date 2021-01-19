@@ -1,7 +1,6 @@
-package Functionalitate.Development;
+package Development;
 
 import org.jetbrains.annotations.NotNull;
-
 import java.util.Scanner;
 
 @SuppressWarnings("ALL")

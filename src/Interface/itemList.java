@@ -1,4 +1,4 @@
-package Functionalitate.Interface;
+package Interface;
 
 public interface itemList {
     void setItm(int id, String type, String name, String details, double price);

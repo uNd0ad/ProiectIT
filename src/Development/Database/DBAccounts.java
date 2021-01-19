@@ -1,4 +1,4 @@
-package Functionalitate.Development.Database;
+package Development.Database;
 
 import java.util.ArrayList;
 import java.util.Scanner;

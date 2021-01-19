@@ -1,6 +1,6 @@
-package Functionalitate.Development;
+package Development;
 
-import Functionalitate.Development.Database.DBItems;
+import Development.Database.DBItems;
 
 import java.util.Scanner;
 
