@@ -8,6 +8,16 @@ import Development.SignIn;
 
 import java.util.Scanner;
 
+/*******************************************************************************************
+ *                                                                                         *
+ *                                   My graduation app                                     *
+ *                                                                                         *
+ *  The primary purpose of the project was to simulate a Linux distro terminal at specific *
+ *  commands. As it is the final release for deadlines, but it was not optimized before.   *
+ *                                                                                         *
+ *                                                                                         *
+ *******************************************************************************************/
+
 @SuppressWarnings("ALL")
 
 public class bootstrap {
